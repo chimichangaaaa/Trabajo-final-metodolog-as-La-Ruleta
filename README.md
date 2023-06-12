@@ -1,4 +1,5 @@
 # Trabajo-final-metodologias-La-Ruleta
+
 Este es el trabajo de fin de curso de la asignatura Metodologias de la Programacion de la universidad UNIE.
 Participantes:Álvaro Hernandez(thealvarox7), Adrián Tamargo (FalquitoPit) y Pablo Martínez (chimichangaaaa)
 
@@ -15,3 +16,10 @@ Generación de números aleatorios: Utilizando las capacidades de generación de
 Opciones de apuesta: El código permite a los jugadores realizar diferentes tipos de apuestas, como apuestas a números individuales, apuestas a grupos de números, apuestas a colores, entre otras. Se implementarán las reglas de pago correspondientes que se explican en el word adjunto a cada tipo de apuesta.
 
 Control de apuestas: Se ha desarrollado un sistema para gestionar las apuestas de los jugadores. Los usuarios pueden realizar sus apuestas antes de que la rueda de la ruleta comience a girar, y una vez que la rueda se detenga, se calcularán los pagos correspondientes según los resultados.
+
+
+Ahora pasamos a la distribución del proyecto.
+Hemos dividido el Proyecto en 3 Branches Main (donde se encuentra el Index.html, un word con los requisitos y este archivo.txt) Diseño (donde esta el css y las imagenes utilizadas ) y codigo donde estan todo el codigo en javascript para que el programa funcione.
+
+Como se trata de un trabajo en grupo cada participante ha subido una parte de codigo para que funcione correctamente descargue el repositorio completo.
+Disfrute del juego.
