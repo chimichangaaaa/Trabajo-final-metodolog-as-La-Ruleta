@@ -21,5 +21,20 @@ Control de apuestas: Se ha desarrollado un sistema para gestionar las apuestas d
 Ahora pasamos a la distribución del proyecto.
 Hemos dividido el Proyecto en 3 Branches Main (donde se encuentra el Index.html, un word con los requisitos y este archivo.txt) Diseño (donde esta el css y las imagenes utilizadas ) y codigo donde estan todo el codigo en javascript para que el programa funcione.
 
+La instalación es muy sencilla descarga el repositorio mediante rar o en github desktop. Inicias VisualStudio y abres todos los repositorios en un mismo folder y ejecutas el archivo index.html.
+
+
+
+Cuando ejecutas el index.html comienza el juego lo primero que te pide es seleeccionar el numero de participantes (entre 1 a 4) lo siguiente es añadir un nombre a los jugadores que se guardara para la clasificacion. Una vez añadido los nombres se añade un valor de creditos incial(Minimo 2) a cada jugador en juego.
+
+Añadido el dinero a todos los jugadores comienza la apuesta del primer jugador, el cual elige cuantas fichas de 50,25,10,5,1 quiere apostar y a que casilla quiere. Una vez seleccionada la casilla se guarda la apuesta y el jugador puede hacer otra apuesta si quiere o pasar al siguiente jugador que repitera el mismo proceso y asi sucesivamente con todos los jugadores.
+
+Otra opcion que tiene cada jugador es la de pasar turno y no apostar.
+
+Cuando esten todas las apuestas realizadas se presiona un boton que da el resultado de la ruleta de forma totalmente aleatoria. Dependiendo del resultado los participantes podran recoger sus creditos multiplicados en base a que apostaron o no recoger nada porque no se cumplio su apuesta.
+
+Se suman los creditos a los participantes y comienza otra ronda mas de la ruleta hasta que gane un jugador gane  porque sus contricantes se han quedado sin dinero.
+
+
 Como se trata de un trabajo en grupo cada participante ha subido una parte de codigo para que funcione correctamente descargue el repositorio completo.
 Disfrute del juego.
