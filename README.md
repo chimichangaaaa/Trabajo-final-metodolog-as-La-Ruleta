@@ -17,10 +17,12 @@ Control de apuestas: Se ha desarrollado un sistema para gestionar las apuestas d
 
 
 Ahora pasamos a la distribución del proyecto.
+
 Al ejecutar el código aparece un output donde te pide elegir el numero de jugadores qyue van a participar. Una vez seleccionados dichos jugadores deberas introducir el nombre del jugador, el numero de fichas con las que este mismo empezara a jugar teniendo que ser esta mayor que 0. Comienza una nueva ronda donde se le pregunta a cada jugador la cantidad de fichas que desea apostar y si quiere apostar a numeros o colores. 
-
-
-
+Si el jugador elige colores tiene que decidir si su apuesta va al color negro o al rojo, si elige numeros, tiene que elegir a cuentos números quiere apostar y los numeros a los cuales quiere apostar (0-36).
+Una vez que todos los jugadpres hayan elegido a que apostar aparece el resultado de la ruleta (numero), y siguinedo las normas de la ruleta (que están en el PDF subido al repòsitorio) se aplica una bonificación en base a lo que hayas aopostado: color o numero.
+Tras cada ronda jugada aparece una tabla de clasificación donde pone las fichas que tiene cada jugador al terminar la ronda.
+Por ultimo, si un jugador se queda sin queda sin fichas, esta eliminado y gana el jugador con más fichas de la mesa. 
 
 
 
