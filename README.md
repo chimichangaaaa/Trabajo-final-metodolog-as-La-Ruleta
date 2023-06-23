@@ -1,7 +1,7 @@
 # Trabajo-final-metodologias-La-Ruleta
 
 Este es el trabajo de fin de curso de la asignatura Metodologias de la Programacion de la universidad UNIE.
-Participantes:Álvaro Hernandez(thealvarox7), Adrián Tamargo (FalquitoPit) y Pablo Martínez (chimichangaaaa)
+Participantes:Álvaro Hernandez (thealvarox7), Adrián Tamargo (FalquitoPit) y Pablo Martínez (chimichangaaaa)
 
 Descripcion del proyecto:
 
