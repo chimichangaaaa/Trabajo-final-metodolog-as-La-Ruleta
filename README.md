@@ -26,5 +26,6 @@ Por ultimo, si un jugador se queda sin queda sin fichas, esta eliminado y gana e
 
 
 
+Para que las pruebas de aceptación (tests) se deberá añadir la libreria JUNIT al JAVA Proyect.
 Como se trata de un trabajo en grupo cada participante ha subido una parte de codigo para que funcione correctamente descargue el repositorio completo.
 Disfrute del juego.
